@@ -1,5 +1,5 @@
 {
-  "name": "amuhiku",
+  "name": "sakaluku",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -40,5 +40,5 @@
     "webpack-cli": "^3.0.2",
     "webpack-dev-server": "^3.1.4"
   },
-  "author": "kepeken"
+  "author": "sakaluku"
 }
